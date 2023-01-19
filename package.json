@@ -1,0 +1,23 @@
+{
+  "name": "spotify-custom-player",
+  "version": "1.0.0",
+  "description": "This is a sample implementation about custom player using Spotify iFrame API",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianmojico/spotify-custom-player"
+  },
+  "keywords": [],
+  "author": "Julian Mojico",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianmojico/spotify-custom-player/issues"
+  },
+  "homepage": "https://github.com/julianmojico/spotify-custom-player#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
