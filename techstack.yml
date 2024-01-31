@@ -1,0 +1,57 @@
+repo_name: julianmojico/spotify-custom-player
+report_id: 00fc678b96c9f76562e77fe4232074f7
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:40:03+00:00'
+requested_by: julianmojico
+provider: github
+branch: main
+detected_tools_count: 4
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/julianmojico/spotify-custom-player
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/julianmojico/spotify-custom-player
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/julianmojico/spotify-custom-player/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Julian Mojico
+  last_updated_on: 2023-01-19 21:55:24.000000000 Z
+- name: serve
+  description: Static file serving and directory listing
+  package_url: https://www.npmjs.com/serve
+  version: 11.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16484/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/julianmojico/spotify-custom-player/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Julian Mojico
+  last_updated_on: 2023-01-19 21:55:24.000000000 Z
